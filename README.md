@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[contact_management_system_logo.png](https://www.erp-information.com/wp-content/uploads/2023/10/overview-of-contact-management.png)" alt="Contact Management System Logo" width="200">
+  <img src="https://www.erp-information.com/wp-content/uploads/2023/10/overview-of-contact-management.png" alt="Contact Management System Logo" width="200">
 </div>
 
 # 📇 Contact Management System
